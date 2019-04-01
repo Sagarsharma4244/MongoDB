@@ -1,7 +1,6 @@
 # ToDo Application
 Source: https://www.youtube.com/watch?v=CyTWPr_WwdI
-## Step 1:
-Install 
+## Step 1: 
 Go in the project directory and open command prompt.
 - `npm install body-parser`
 - `npm install express`
