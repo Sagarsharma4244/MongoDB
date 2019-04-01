@@ -1,4 +1,14 @@
-# Todo_Rest_CRUD_Application_JQuery_FetchAPI
+# ToDo Application
+
+## Step 1:
+
+Install 
+- `npm install body-parser`
+- `npm install express`
+- `npm install mongodb`
+- `npm install path`
+- `npm install joi`
+  
 Make sure to change into directory and run "Npm install" to download modules
 
 Source Code for Todo Rest CRUD Application Tutorial found here:
