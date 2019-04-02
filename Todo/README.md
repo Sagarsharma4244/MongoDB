@@ -2,7 +2,7 @@
 Source: https://www.youtube.com/watch?v=CyTWPr_WwdI
 ## Step 1: 
 Go in the project directory and open command prompt.
-- `npm init -y`
+- Create package.json file. `npm init -y`
 - [body-parser](https://www.npmjs.com/package/body-parser) `npm install body-parser` 
 - [express](https://www.npmjs.com/package/express) `npm install express` 
 - Download & install [Mongodb](https://www.mongodb.com/download-center/community) 
